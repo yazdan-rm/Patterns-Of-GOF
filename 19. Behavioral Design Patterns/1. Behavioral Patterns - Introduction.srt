@@ -1,0 +1,67 @@
+1
+00:00:00,700 --> 00:00:01,160
+All right.
+
+2
+00:00:01,160 --> 00:00:07,790
+So congratulations on finishing up the structural design patents and now we are onto our last group
+
+3
+00:00:08,060 --> 00:00:11,930
+of design veterans and that is behavioral design patents.
+
+4
+00:00:12,110 --> 00:00:20,340
+So Design Patterns in this group they revolve around designing the interaction between objects and classes
+
+5
+00:00:21,140 --> 00:00:27,500
+and by designing these interactions in a certain way we can solve a multitude of problems.
+
+6
+00:00:27,710 --> 00:00:33,110
+And I assure you that this is one of the most exciting group of design patterns and you will use most
+
+7
+00:00:33,110 --> 00:00:36,350
+of these design patterns almost regularly.
+
+8
+00:00:36,350 --> 00:00:38,520
+So let's look at the list of design patterns.
+
+9
+00:00:38,570 --> 00:00:45,270
+OK so this is a lot less but I assure you that you are probably already using most of these.
+
+10
+00:00:45,290 --> 00:00:47,360
+So chain of response with the this is the first one.
+
+11
+00:00:47,390 --> 00:00:53,810
+If you have every word with servlet in Java then you have used chain of responsibility because all these
+
+12
+00:00:53,810 --> 00:00:56,940
+overlit filters follow this design.
+
+13
+00:00:57,380 --> 00:01:02,790
+If you have worked with collections in Java then you have used with work with iterator greater design
+
+14
+00:01:02,790 --> 00:01:11,210
+Bahan observer and visiter are some of the most used patterns because they solve specific problems that
+
+15
+00:01:11,210 --> 00:01:12,620
+are very common.
+
+16
+00:01:12,620 --> 00:01:13,170
+All right.
+
+17
+00:01:13,310 --> 00:01:17,330
+So let's start with chain of responsibility in the next video.

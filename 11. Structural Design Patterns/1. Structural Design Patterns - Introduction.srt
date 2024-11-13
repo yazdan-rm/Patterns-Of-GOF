@@ -1,0 +1,79 @@
+1
+00:00:00,590 --> 00:00:07,050
+Or I'd support solutions on finishing up your first group of design parents you now have all the tools
+
+2
+00:00:07,050 --> 00:00:13,340
+that are needed to solve problems that are related to creating objects from glasses.
+
+3
+00:00:13,350 --> 00:00:20,190
+Now it's time to jump to the next group in our design patterns study and that is the structural design
+
+4
+00:00:20,190 --> 00:00:28,110
+patterns so designers that belong to this group they deal with how we can arrange our classes and objects
+
+5
+00:00:28,410 --> 00:00:32,160
+in order to get some functionality or behavior are there.
+
+6
+00:00:32,730 --> 00:00:39,810
+So do we mean by that so we can use composition and we can use inheritance and when we combine these
+
+7
+00:00:39,810 --> 00:00:47,010
+two powerful features and create arrangements using these two features of object oriented programming
+
+8
+00:00:47,310 --> 00:00:53,910
+we can get some really interesting behavior out of our objects and classes and using these arrangements
+
+9
+00:00:53,910 --> 00:00:58,860
+we can solve some really common problems that we will face in your real life.
+
+10
+00:00:58,860 --> 00:01:06,330
+Devlopment So here is a list of design patterns that we are going to study here and these design problems
+
+11
+00:01:06,530 --> 00:01:09,260
+solves some very interesting problems.
+
+12
+00:01:09,270 --> 00:01:15,450
+For example let's say you want to provide a method level security to your objects so you want to make
+
+13
+00:01:15,450 --> 00:01:21,740
+sure that whoever is calling your object's method must have performed an art indication.
+
+14
+00:01:22,690 --> 00:01:30,700
+Let's say you want to use or simplify use of your subsystem so you have these multiple classes designed
+
+15
+00:01:31,060 --> 00:01:33,780
+that carry out complicated functionality.
+
+16
+00:01:33,970 --> 00:01:40,240
+But now it is becoming quite a tiresome or tedious for the client code to use all these classes.
+
+17
+00:01:40,300 --> 00:01:45,270
+So you can simplify your entire subsystem using a single plus.
+
+18
+00:01:45,310 --> 00:01:50,960
+So these are some of the examples of problems that design patterns in this group trying to solve.
+
+19
+00:01:51,250 --> 00:01:51,940
+All right.
+
+20
+00:01:51,940 --> 00:01:55,970
+So we're going to start with adapter and see you in the next one.
